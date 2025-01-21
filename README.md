@@ -3,7 +3,7 @@
 
 ## Participant Names  
 - **Participant 1:** Nicolas Muhigi 
-- **Participant 2:** Jolly Umulisa 
+- **Participant 2:** Jolly UMULISA 
 
 ## Description  
 This assignment involves debugging and completing the provided starter code to compute the sum of products for two matrices.  
